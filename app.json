@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "estrela-scores",
+    "slug": "estrela-scores",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
